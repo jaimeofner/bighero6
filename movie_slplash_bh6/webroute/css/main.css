@@ -56,3 +56,10 @@ background-color: rgb(100, 114, 141);
     top: 600px;
 
 }
+
+#content-wrapper-video {
+    position: absolute;
+    z-index: 10;
+    left: 100px;
+    top: 800px;
+}
